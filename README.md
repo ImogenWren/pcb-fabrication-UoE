@@ -62,6 +62,7 @@ Open PDF files in Inkscape
  ![image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/4def6664-b1e6-402b-bfd4-1c4a2be71caa)
   
 
+4. If silkscreen size overhangs, export edge cuts as SVG and use as clipping mask
 
 
 
