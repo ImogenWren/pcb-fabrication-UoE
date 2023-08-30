@@ -56,6 +56,7 @@ Open PDF files in Inkscape
     - Output File = Portable Document Format (*.pdf)
   
 3.  Click `Export` and ensure match to dialogue box <br>
+    - Use Document's Page Size
  [image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/4def6664-b1e6-402b-bfd4-1c4a2be71caa)
   
 
