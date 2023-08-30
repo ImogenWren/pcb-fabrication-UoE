@@ -6,7 +6,9 @@ Notes and Instructions for PCB fabrication using UoE In house fabrication servic
 | Feature | Min | Max | Reccomended |
 |---      |---  |---  |---          |
 |via drill| 0.8 |     |   1         |
-| via size|  1  |     |  1.4        | 
+|via size|  1  |     |  1.4        | 
+|trace width |   |   |              |
+|trace clearance | | | 0.500 mm      |
 
 
 ## Fabrication Outputs
@@ -38,5 +40,9 @@ _KiCAD cannot export to PDF directly, must convert SVG to PDF externally_
 ![image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/dfc46394-ea5d-4522-83b6-f8801ebcc70d)
 
 Rename files as they are exported.
+
+##### Convert SVG to PDF
+
+
 
 
