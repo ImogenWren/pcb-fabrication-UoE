@@ -46,6 +46,22 @@ Rename files as they are exported, minimum of 3 files
 - {PCB_NAME}-F.Ss
 
 ##### Convert SVG to PDF
+Open PDF files in Inkscape
+
+1. File -> Document Properties -> `Resize to Content` <br>
+![image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/98209e76-4308-4520-a96b-60d965d324bd)
+
+2. File -> Export -> Ensure settings match:
+    - Document
+    - Output File = Portable Document Format (*.pdf)
+  
+3.  Click `Export` and ensure match to dialogue box <br>
+ [image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/4def6664-b1e6-402b-bfd4-1c4a2be71caa)
+  
+
+
+
+
 
 
 
