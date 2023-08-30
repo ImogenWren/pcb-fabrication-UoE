@@ -40,7 +40,10 @@ _KiCAD cannot export to PDF directly, must convert SVG to PDF externally_
 ##### Exporting SVG Per Layer
 ![image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/dfc46394-ea5d-4522-83b6-f8801ebcc70d)
 
-Rename files as they are exported.
+Rename files as they are exported, minimum of 3 files
+- {PCB_NAME}-F.Cu
+- {PCB_NAME}-B.Cu
+- {PCB_NAME}-F.Ss
 
 ##### Convert SVG to PDF
 
