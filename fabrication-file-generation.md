@@ -58,7 +58,9 @@ Open PDF files in Inkscape
 
 
 
+## NOTE
 
+Might need to add vertical height of board to 1.5 mm offset in CNC router3000 software (Y-axis maybe?)
 
 
 
