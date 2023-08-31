@@ -6,7 +6,7 @@ _Instructions for generating the correct file formats for PCB production using K
 ## Fabrication Outputs
 
 ### Drill Files
-- Ensure that Drill/Place origin is set to top left hand corner of PCB template.
+- Ensure that Drill/Place origin is set to **bottom** left hand corner of PCB template.
 - Ensure that settings match image below. <br><br>
 
 ![image](https://github.com/ImogenWren/pcb-fabrication-UoE/assets/97303986/864be83e-9357-46bc-90ec-f412e207b371)
