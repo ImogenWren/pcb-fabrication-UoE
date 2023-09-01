@@ -28,6 +28,8 @@ _For notes on generating the correct file formats for production using UoE in ho
 
 ## Print Etch Mask
 _Remember, top of PCB goes towards user on printer_
+- Use Versaworks
+- Bottom layer might need to be mirrored (check)
 
 ## Etch
 5 - 10 mins in etch tank.
