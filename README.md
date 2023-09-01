@@ -22,7 +22,22 @@ _For notes on generating the correct file formats for production using UoE in ho
 2. Open RoutePro3000
 3. Start Project Wizard
 4. Follow instructions and assign drills to correct tool size
-5. Run CNC
+5. Ensure that board bottommost hole is 10mm from origin in RoutePro3000 software
+6. Run CNC
+
+
+## Print Etch Mask
+_Remember, top of PCB goes towards user on printer_
+
+## Etch
+5 - 10 mins in etch tank.
+
+## Clean Mask
+
+## Tinning Solution
+10 - 20 mins
+
+## Print Legend
 
 
 
